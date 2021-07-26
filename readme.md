@@ -2,8 +2,8 @@
 
 
 ## 使用方式
-- http://127.0.0.1:3031/dingtalk?token=token&text=text&keyword=[keyword]&secret=[secret]
-- https://api.xinac.net/dingtalk?token=token&text=text&keyword=[keyword]&secret=[secret]
+- http://127.0.0.1:3031/dingtalk`?token=token&text=text&keyword=[keyword]&secret=[secret]`
+- https://api.xinac.net/dingtalk`?token=token&text=text&keyword=[keyword]&secret=[secret]`
 
 ---
 
@@ -18,7 +18,7 @@
 
 ---
 
-## readme
-- 基于python开发，Django3框架
-- 使用uwsgi方式运行
+## About
+- 基于`Python`开发，`Django3`框架
+- 使用`uwsgi`方式运行
 
